@@ -10,7 +10,7 @@ This contains a image gallery web app , which is developed using HTML,CSS and Ja
 4. You can view your favourite images under the Favourite menu item
    
 
-[Working Demo](sassy-fish.surge.sh)
+[Working Demo](diligent-sail.surge.sh)
 
 
 ### Instructions
